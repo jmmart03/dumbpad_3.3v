@@ -1,8 +1,6 @@
 # dumbpad
 
-![dumbpad](https://i.imgur.com/sS3fq1Z.jpg)
-
-A 4x4 macro/numpad with rotary encoder.
+This version uses a 3.3v Pro Micro rather than a 5v. Original maintainer / repo listed below. 
 
 Keyboard Maintainer: [imchipwood](https://github.com/imchipwood)
 
